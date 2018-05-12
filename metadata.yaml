@@ -1,0 +1,46 @@
+_repo: O-Thou-My-Austria-_35454
+_version: 0.1.0
+alternative_title: O du mein Oesterreich. English
+contributor:
+  translator:
+    agent_name: Wister, A. L. (Annis Lee)
+    aliases:
+    - Wister, Mrs. A. L.
+    - Wister, A.L.
+    - Furness, Annis Lee
+    - Wister, Annis Lee
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '37305'
+    url: http://www.gutenberg.org/2009/agents/37305
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schubin, Ossip
+    aliases:
+    - Shubin, Osip
+    - Kirschner, Lula
+    - Kirschner, Aloisia
+    - Kirschner, Lola
+    - Schubin, Osip
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '37646'
+    url: http://www.gutenberg.org/2009/agents/37646
+    wikipedia: http://en.wikipedia.org/wiki/Aloisia_Kirschner
+description: ''
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35454'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austrian fiction -- Translations into English'
+- !lcc 'PT'
+title: '"O Thou, My Austria!"'
+url: http://www.gutenberg.org/ebooks/35454
